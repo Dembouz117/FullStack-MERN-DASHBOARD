@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "noEmit": true,
+      "baseUrl" : "src"
+    },
+    "include": ["src"],
+    "files": ["placeholder.ts"]
+  }

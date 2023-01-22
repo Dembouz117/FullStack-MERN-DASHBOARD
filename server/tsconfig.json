@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+    },
+    "typeRoots": [
+        "../node_modules/@types",
+        "../@types"
+      ]
+  }
